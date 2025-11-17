@@ -9,3 +9,8 @@
 - total cost
 - total profit
 - No. of transactions
+- Discount percentage
+
+---
+###Build following charts using above KPIs
+1)
